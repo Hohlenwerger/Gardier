@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436696195305",
+    "firebase_url": "https://gardier.firebaseio.com",
+    "project_id": "gardier",
+    "storage_bucket": "gardier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436696195305:android:8a45742523cea06f1fd078",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436696195305-97t8p6dc3lpesig8180n86htdf6c9kes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "6e04ae129cc9a5d7422e9498c05d7533d96160d0"
+          }
+        },
+        {
+          "client_id": "436696195305-21vpjk41ncuf62aso7r8rr1kvj52dco8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVeYEr8Ra0K4kMY02B6QtlypDLsV78Y5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436696195305-21vpjk41ncuf62aso7r8rr1kvj52dco8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

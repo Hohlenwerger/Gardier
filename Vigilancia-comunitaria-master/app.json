@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Gardier",
+    "slug": "Gardier",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "privacy": "public",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.ios",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.436696195305-p6uo8fsp92vpkugce7j3i0piojvtifvb"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.example.test",
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": "Gardier, vigilância comunitária no seu bolso"
+  }
+}
